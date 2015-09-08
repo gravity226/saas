@@ -8,4 +8,7 @@ class PagesController < ApplicationController
   def tommy
     @time = Time.now
   end
+
+  def contact
+  end
 end
